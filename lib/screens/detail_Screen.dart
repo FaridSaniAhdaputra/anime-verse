@@ -10,6 +10,7 @@ class DetailScreen extends StatelessWidget {
   final String totalEpisodes;
   final String description;
 
+  
   const DetailScreen({
     super.key,
     // Menggunakan data dummy untuk sementara sebagai demo
