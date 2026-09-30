@@ -2,6 +2,7 @@ import 'package:anime_verse/config/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
+
 class BottomNavigationShell extends StatelessWidget {
   final StatefulNavigationShell navigationShell;
 
